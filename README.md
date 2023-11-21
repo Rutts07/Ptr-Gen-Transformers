@@ -37,7 +37,8 @@ The task we are tackling is of generating an appropriate short summary for any g
 │   ├── pointer_t5.py
 │   ├── test_pointer_t5.py
 │   └── train_pointer_t5.py
-└── README.md
+├── README.md
+└── requirements.txt
 ```
 
 ### Guidlines to clone the project : 
